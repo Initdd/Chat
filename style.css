@@ -1,0 +1,20 @@
+.error {
+    color: white;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(247, 137, 137);
+    display: inline-block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
+    border-radius: 5px;
+}
+
+.center {
+    text-align: center;
+    align-content: center;
+    color: white;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    display: inline;
+}

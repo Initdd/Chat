@@ -1,0 +1,2 @@
+ErrorDocument 404 /Chat/error/404.html
+ErrorDocument 403 /Chat/error/403.html
